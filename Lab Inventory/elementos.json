@@ -1,0 +1,346 @@
+[
+	{
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+		"name": "Computadoras",
+		"items": [
+			{
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+				"name": "Macbook Pro de 13 pulgadas",
+				"model": "A1708",
+                "año": "2017",
+				"label": ["1"],
+				"description": "Número de Inventario: 2495017 \n\n \t Serie: C02TXLFZHV29 \n\n Cuenta: ejemplo@correo.com.mx"
+			},
+			{
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+				"name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["2"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+				"name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["3"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+				"name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["4"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+				"name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["5"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
+				"name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["6"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D901",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["7"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D902",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["8"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D903",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["9"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D904",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["10"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D905",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["11"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D906",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["12"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D907",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["13"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D908",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["14"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D909",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["15"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D910",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["16"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D911",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["17"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D291",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["18"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D292",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["19"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D293",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["20"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D294",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["21"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D295",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["22"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D296",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["23"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D297",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1708",
+                "año": "2017",
+                "label": ["24"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D298",
+                "name": "Macbook Pro de 13 pulgadas",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["25"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D411",
+                "name": "iMac",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["1"],
+                "description": "iMac gigante"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D412",
+                "name": "iMac",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["2"],
+                "description": "iMac gigante"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D413",
+                "name": "iMac",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["3"],
+                "description": "iMac gigante"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D414",
+                "name": "iMac",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["4"],
+                "description": "iMac gigante"
+            },
+            {
+                "id": "190A7A9D-21B4-4F98-AA54-B134E1D6D415",
+                "name": "iMac",
+                "model": "A1418",
+                "año": "2017",
+                "label": ["5"],
+                "description": "iMac gigante"
+            }
+		]
+	},
+	{
+		"name": "Teléfonos",
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+		"items": [
+			{
+                "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+				"name": "iPhone 7 Plus",
+                "model": "A1784",
+                "año": "2017",
+                "label": ["1"],
+                "description": "iPhone grandote"
+			},
+			{
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+				"name": "iPhone 7",
+                "model": "A1778",
+                "año": "2017",
+                "label": ["1"],
+                "description": "iPhone chiquito"
+			},
+			{
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+				"name": "iPhone SE",
+                "model": "A1723",
+                "año": "2017",
+                "label": ["1"],
+                "description": "iPhone super chiquito"
+			}
+		]
+	},
+	{
+		"name": "Tablets",
+        "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+		"items": [
+			{
+                "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+				"name": "iPad Pro",
+                "model": "A1701",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+				"name": "iPad Silver",
+                "model": "A1822",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+				"name": "iPad Mini",
+                "model": "A1538",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			}
+		]
+	},
+	{
+		"name": "Accesorios y otros",
+        "id": "CE3C67F9-79E3-46E3-B134-362A52ABFE3C",
+		"items": [
+			{
+                "id": "A4D89AF9-190E-4409-B924-AABD13DBB6A4",
+				"name": "Apple Watch Series 1",
+                "model": "A1802",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "FC201614-1418-4152-9469-087B27485D13",
+				"name": "Apple Watch Series 1 1",
+                "model": "A1802",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+				"name": "Apple Watch Series 2",
+                "model": "A1757",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			},
+			{
+                "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
+				"name": "Apple TV",
+                "model": "A1625",
+                "año": "2017",
+                "label": ["1"],
+                "description": "Macbook Pro de 13 pulgadas con pantalla retina"
+			}
+		]
+	}
+]
