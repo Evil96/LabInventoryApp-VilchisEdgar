@@ -53,7 +53,7 @@ struct EnUsoView: View {
     }
     
     func deleteItems(at offsets: IndexSet) {
-        enuso.items.remove(atOffsets: offsets)
+        enuso.useItems.remove(atOffsets: offsets)
     }
 
 }
