@@ -24,7 +24,7 @@ struct DetallesLabView: View {
         
                 Spacer()
           
-                Text("Creador: Edgar Vilchis \n\n Propósito: Esta app nació de la idea de tener un mejor orden y estructura sobre el equipo \n de cómputo del laboratorio. \n\n Accesibilidad: Todo aquél que deseé realizar modificaciones a esta aplicación es bienvenido. \n\n URL del repositorio: https://github.com/Evil96/LabInventoryApp-VilchisEdgar")
+                Text("Creador: Edgar Vilchis \n\n Propósito: Esta app nació de la idea de tener un mejor orden y estructura sobre el equipo \n de cómputo del laboratorio. \n\n Accesibilidad: Todo aquél que deseé realizar modificaciones a esta aplicación es bienvenido. \n\n URL del repositorio: https://github.com/Evil96/LabInventoryApp-VilchisEdgar").font(.subheadline)
 
                 Spacer()
 
